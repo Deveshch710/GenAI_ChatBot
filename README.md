@@ -13,7 +13,7 @@ This project is a generative AI chatbot built using OpenAI and Python, along wit
 
 ## Screenshots
 
-![GenAi ChatBot Screenshot](https://drive.google.com/file/d/1yBbfGHK-IPQkBsz92Hd8e2qk0O6j9UJL/view?usp=sharing)
+<img src="https://github.com/user-attachments/assets/aeee897f-482c-41e0-b80e-8e5c7c313e60">
 
 
 ## Libraries Used
